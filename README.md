@@ -11,7 +11,7 @@ This is the official codebase of the paper
 
 [paper]: https://arxiv.org/pdf/2106.06935.pdf
 
-NeurIPS 2021
+A PyG re-implementation of NBFNet can be found [here](https://github.com/KiddoZhu/NBFNet-PyG).
 
 ## Overview ##
 
@@ -206,9 +206,10 @@ If you find this codebase useful in your research, please cite the following pap
 
 ```bibtex
 @article{zhu2021neural,
-  title={Neural Bellman-Ford Networks: A General Graph Neural Network Framework for Link Prediction},
+  title={Neural bellman-ford networks: A general graph neural network framework for link prediction},
   author={Zhu, Zhaocheng and Zhang, Zuobai and Xhonneux, Louis-Pascal and Tang, Jian},
-  journal={arXiv preprint arXiv:2106.06935},
+  journal={Advances in Neural Information Processing Systems},
+  volume={34},
   year={2021}
 }
 ```
